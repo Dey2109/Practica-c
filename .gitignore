@@ -1,0 +1,16 @@
+# Ejecutables y objetos compilados
+*.exe
+*.o
+sim_csv
+nbody
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Sistema operativo / editor
+.DS_Store
+Thumbs.db
+.vscode/
